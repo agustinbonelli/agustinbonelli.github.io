@@ -14,7 +14,8 @@
  */
 get_header(); ?>
 
-	<!-- delete this code -->
-	<div class="temp"><div class="intro"><a href="https://onepagelove.com/una">Una</a> is a One Page starter theme for WordPress with no posts, archives, comments or styles.</div><div class="instructions">Either start editing index.php or head over to...<ul><li>Dashboard</li><li>Settings</li><li>Reading</li><li>Front Page Displays</li><li>A Static Page</li><li>Front Page:</li><li>Choose a Page</li></ul>✌</div></div>
+	<a href="https://dsp.stackexchange.com/users/7599/bone">
+<img src="https://dsp.stackexchange.com/users/flair/7599.png" width="208" height="58" alt="profile for bone at Signal Processing Stack Exchange, Q&amp;A for practitioners of the art and science of signal, image and video processing" title="profile for bone at Signal Processing Stack Exchange, Q&amp;A for practitioners of the art and science of signal, image and video processing">
+</a>
 
 <?php get_footer(); ?>
