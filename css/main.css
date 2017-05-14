@@ -379,7 +379,7 @@ header #logo-container:last-child {
   }
 }
 header #logo-container #logo {
-  padding-top: 0.5em;
+  padding-top: 0;/*0.5em;*/
   font-weight: bold;
   font-size: 48px;
   line-height: 60px;
@@ -408,8 +408,8 @@ header nav {
   text-align: right;
   float: left;
   display: block;
-  margin-right: 2.35765%;
-  width: 74.41059%;
+  /*margin-right: 2.35765%;*/
+  /*width: 74.41059%;*/
 }
 header nav:last-child {
   margin-right: 0;
